@@ -1,0 +1,6 @@
+# For parquet conversion
+pyarrow>=11.0.0
+# Streaming json parsing
+ijson>=3.1.4
+# For progress bars
+tqdm>=4.64.0
